@@ -1,13 +1,7 @@
 # Arabidopsis thaliana TE Transcripts
 TE transcript-based annotation layered over Arabidopsis TAIR10 TE annotation\
 \
-TAIR10 TE annotation provides 6 columns of information for each Transposable Element (TE):
-1. TE-ID
-2. If the orientation is 5’
-3. TE Start
-4. TE End
-5. TE Family
-6. TE superfamily and Type\
+TAIR10 TE annotation provides 6 columns of information for each Transposable Element (TE): TE-ID, If the orientation is 5’, TE Start, TE End, TE Family and TE superfamily/Type\
 \
 This information is available in the first 9 columns of the new annotation bed file.\
 \
