@@ -30,9 +30,9 @@ In addition, the following columns are noted for each TE:
 18: Type of RdDM acting on the TE when TEs are active (ddm1) as reported in Panda et. al., Genome Biology 2016.
 
 19: Evidence of Expression: 
-    “.” if no expression found
-    “Low Expressed” if at least 1 read reported expression but not enough to annotate transcripts
-	  “ExpressedAndAnnotated” if TE is expressed high enough for transcript annotation.
+	“.” if no expression found
+	“Low Expressed” if at least 1 read reported expression but not enough to annotate transcripts
+	“ExpressedAndAnnotated” if TE is expressed high enough for transcript annotation.
 20: Transcriptional Start Site (TSS). Comma separated values note multiple TSSs.
 21: Transcriptional Stop Site or more accurately polyadenylation site.
 22: Transcriptional Strand. Comma separated valued not direction of each transcript.
